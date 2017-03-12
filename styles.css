@@ -9,9 +9,10 @@ body{
     padding:0;
     margin:0;
     border:0;
+    text-align: center;
 }
 
-header{
+#header{
     height:100px;
     background: #dbdbdb;
     width: 100%;
@@ -30,7 +31,7 @@ header{
 
 #content{
     width: 100%;
-    position: center;
+    position: relative;
     top:400px;
     background:#ebebeb;
     height:1500px
