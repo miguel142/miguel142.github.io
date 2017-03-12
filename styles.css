@@ -1,14 +1,10 @@
-body,div,h1,h2,h3,img,html,header{
+html{
     margin:0;
     padding:0;
     border:0;
 }
 
-.container{
-    margin:0;
-    padding:0;
-    border:0;
-}
+
 body{
     text-align: center;
 }
