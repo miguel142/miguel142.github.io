@@ -1,4 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,300");
 html, body{
     background-color:#FAFAFA;
     background-size: cover;
+    font-family: lato;
 }
