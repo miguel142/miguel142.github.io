@@ -30,7 +30,7 @@ body{
 
 #content{
     width: 100%;
-    position: relative;
+    position: center;
     top:400px;
     background:#ebebeb;
     height:1500px
