@@ -7,8 +7,12 @@ html, body{
 
 .main{
      text-align: center;
+     vertical-align: middle;
 }
 
-p.italic{
+p.quote{
     font-style: italic;
 }
+
+
+
