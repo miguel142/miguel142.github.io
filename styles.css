@@ -6,15 +6,18 @@ html{
 
 
 body{
-    text-align: center;
+    padding:0;
+    margin:0;
+    border:0;
 }
 
-header{
+#header{
     height:100px;
     background: #dbdbdb;
     width: 100%;
     z-index:10;
     position: fixed;
+    top:0px;
 }
 
 #banner{
@@ -31,4 +34,5 @@ header{
     top:400px;
     background:#ebebeb;
     height:1500px
+   
 }
