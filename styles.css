@@ -4,6 +4,7 @@ body, html{
     font-family: lato;
     background-color:#FAFAFA;
     background-size:cover;
+    position: center;
 }
 
 a{
