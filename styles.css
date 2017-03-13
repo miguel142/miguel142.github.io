@@ -30,7 +30,7 @@ header{
     position: fixed;
     top: 100px;
     background: #707070;
-    background: cover;
+    background-size: cover;
 }
 
 #content{
