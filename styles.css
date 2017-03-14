@@ -1,7 +1,9 @@
 body, html{
     padding:0;
     margin:0;
-    font-family: "San Francisco", "Helvetica Neue", "Lucida Grande";
+    font-family:"myriad-pro";
+    font-weight: 300;
+    font-style: normal;
     background-color:#1f1f1f;
     background-size:cover;
     text-align: center;
