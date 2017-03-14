@@ -1,7 +1,7 @@
 body, html{
     padding:0;
     margin:0;
-    font-family: "myriad-pro, sans-serif";
+    font-family: myriad-pro, sans-serif;
     font-weight: bold;
     font-style: normal;
     background-color:#1f1f1f;
@@ -46,5 +46,7 @@ a{
     .para{
         position: relative;
         top:50px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
 
