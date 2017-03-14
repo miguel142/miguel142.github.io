@@ -2,9 +2,10 @@ body, html{
     padding:0;
     margin:0;
     font-family: myriad-pro, sans-serif;
-    background-color:#FAFAFA;
+    background-color:#1f1f1f;
     background-size:cover;
     text-align: center;
+    color: #FAFAFA
 }
 
 a{
