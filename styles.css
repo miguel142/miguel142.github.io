@@ -15,9 +15,15 @@ a{
     position: center;
     height: 100%;
     width:100%;
+    text-align: center;
 }
     .main ,mainContent{
         color:#000000;
         position: center;
+    }
+
+    .bottom{
+        position: relative;
+        top: 50px;
     }
 
