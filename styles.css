@@ -25,6 +25,7 @@ a{
     .bottom{
         position: relative;
         top: 20px;
+        font-size: 50px;
     }
 
     .contactInfo{
@@ -35,6 +36,7 @@ a{
     .about{
         position: relative;
         top: 50px;
+        font-size: 50px;
     }
 
     .para{
