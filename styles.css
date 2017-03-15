@@ -59,6 +59,25 @@ a{
 
   .Media{
       position: relative;
-      top:300px;
+      top:100px;
+      font-size: 30px;
   }
+    
+    .Icon1:hover{
+        position: relative;
+        color:#7CFC00;
+        font-size:40px;
+    }
+
+    .Icon2:hover{
+        position:relative;
+        color:#0000FF;
+        font-size:40px;
+    }
+
+    .Icon3:hover{
+        position:relative;
+        color:#FB3958;
+        font-size:40px;
+    }
 
