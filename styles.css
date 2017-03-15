@@ -68,6 +68,10 @@ a{
         font-size: 11px;
     }
 
+    .RandomQuote{
+        top:50px
+    }
+
   .Media{
       position: relative;
       top:90px;
