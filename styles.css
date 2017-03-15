@@ -16,7 +16,7 @@ a{
 
 .main{
     position: relative;
-    vertical-align: middle;
+    top:50px;
     height: 100%;
     width:100%;
     text-align: center;
