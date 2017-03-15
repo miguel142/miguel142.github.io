@@ -2,13 +2,23 @@
 <html>
     <script src="https://use.fontawesome.com/webfontloader/1.6.24/webfontloader.js"></script>
     <script src="https://use.fontawesome.com/18c6bf2c4f.js"></script>
-    <script> src="quote.js"</script>
+    <script> var quotes=[
+    'this is the first quote',
+    'this is the second quote',
+    'this is the third quote'
+    ]
+
+   function newQuote(){
+    var randomNumber = Math.floor(Math.random() * (quotes.length));
+    document.getElementById('quoteDisplay').innerHTML = "please work";
+    }
+  </script>
     <head>
         <link rel="stylesheet" type=text/css href="styles.css" />
         <title>Miguel Gomez</title>
     </head>
     
-    <body onload="newQuote()">
+    <body onload="newQuote()" src= "/default.asp">
         <div class="w3-container">
             <div class="mainContent">
                  <div class="top">
