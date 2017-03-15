@@ -14,9 +14,9 @@ a{
     color: #aaaaaa
 }
 
-.main{
+.w3-container{
     position: relative;
-    top:50px;
+    top:100px;
     height: 100%;
     width:100%;
     text-align: center;
