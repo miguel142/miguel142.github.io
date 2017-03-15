@@ -20,8 +20,14 @@ a{
     width:100%;
     text-align: center;
 }
+
     .main ,mainContent{
         position: center;
+    }
+
+    .circle{
+        position:relative;
+        border-radius: 50%;
     }
 
     .title{
@@ -52,6 +58,7 @@ a{
     }
 
   .Media{
-      top:500px;
+      position: relative;
+      top:300px;
   }
 
