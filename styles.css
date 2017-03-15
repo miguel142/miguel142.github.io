@@ -33,7 +33,7 @@ a{
     .title{
         position: relative;
         top: 18px;
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .contactInfo{
@@ -45,16 +45,28 @@ a{
         .link1{
             margin-right:10px;
         }
+
+        .link1:hover{
+            position: relative;
+            color:#0000FF;
+            font-size:35px;
+        }
         .link2{
             margin-left:10px;
+        }
+
+        .link2{
+            position:relative;
+            color:#0000FF;
+            font-size:35px;
         }
     
     .para{
         position: relative;
         top:50px;
-        margin-left: 300px;
-        margin-right: 300px;
-        font-size: 10px;
+        margin-left: 320px;
+        margin-right: 320px;
+        font-size: 11px;
     }
 
   .Media{
