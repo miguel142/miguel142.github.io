@@ -34,13 +34,13 @@ a{
     .title{
         position: relative;
         top: 18px;
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .contactInfo{
         position: relative;
         top: 35px;
-        font-size: 25px;
+        font-size: 30px;
     }
 
         .link1{
@@ -65,7 +65,7 @@ a{
         top:50px;
         margin-left: 320px;
         margin-right: 320px;
-        font-size: 11px;
+        font-size: 14px;
     }
 
     .RandomQuote{
@@ -75,7 +75,7 @@ a{
   .Media{
       position: relative;
       top:90px;
-      font-size: 30px;
+      font-size: 35px;
   }
     
     .Icon1:hover{
