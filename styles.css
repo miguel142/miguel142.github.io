@@ -15,11 +15,12 @@ a{
 }
 
 .main{
-    position: center;
+    position: relative;
+    top:50%;
+    transform:translateY(-50%);
     height: 100%;
     width:100%;
     text-align: center;
-    vertical-align: middle;
 }
 
     .main ,mainContent{
