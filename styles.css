@@ -16,7 +16,7 @@ a{
 
 .w3-container{
     position: relative;
-    top:100px;
+    top:150px;
     height: 100%;
     width:100%;
     text-align: center;
@@ -70,7 +70,7 @@ a{
 
   .Media{
       position: relative;
-      top:100px;
+      top:90px;
       font-size: 30px;
   }
     
